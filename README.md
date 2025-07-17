@@ -17,13 +17,13 @@ git clone https://github.com/chenwumm/clst/
 ```
 ### Bash版本
 ```
-cp ~/clst/.bashrc ~/bashrc
+cp ~/clst/.bashrc ~/.bashrc
 ```
 这个命令会覆盖你的原.bashrc！！！使用前请备份你原来的.bashrc！！！
 然后再重启终端就成功了。
 ### Zsh版本
 ```
-cp ~/clst/.zshrc ~/zshrc
+cp ~/clst/.zshrc ~/.zshrc
 ```
 这个命令会覆盖你的原.zshrc！！！使用前请备份你原来的.zshrc！！！
 然后再重启终端就成功了。  
