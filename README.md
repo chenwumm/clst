@@ -26,5 +26,5 @@ cp ~/clst/.bashrc ~/bashrc
 cp ~/clst/.zshrc ~/zshrc
 ```
 这个命令会覆盖你的原.zshrc！！！使用前请备份你原来的.zshrc！！！
-然后再重启终端就成功了。
+然后再重启终端就成功了。  
 如果您有建议，也欢迎提交Issues！谢谢！
