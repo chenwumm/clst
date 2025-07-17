@@ -1,4 +1,4 @@
-#CLST使用文档
+# CLST使用文档
 
 CLST是一个Linux终端主题(脑抽了写出来的)。
 ![截图](https://github.com/chenwumm/clst/blob/main/image/1.png)
@@ -11,15 +11,20 @@ CLST是一个Linux终端主题(脑抽了写出来的)。
 主目录显示`~`，主目录下面的子目录显示`~/子目录名称`，不是主目录就按原样显示。
 ## 使用方法
 CLST有Bash和Zsh版本。
+### 克隆CLST仓库
+```
+git clone https://github.com/chenwumm/clst/
+```
 ### Bash版本
 ```
 cp ~/clst/.bashrc ~/bashrc
 ```
 这个命令会覆盖你的原.bashrc！！！使用前请备份你原来的.bashrc！！！
+然后再重启终端就成功了。
 ### Zsh版本
 ```
 cp ~/clst/.zshrc ~/zshrc
 ```
 这个命令会覆盖你的原.zshrc！！！使用前请备份你原来的.zshrc！！！
-
+然后再重启终端就成功了。
 如果您有建议，也欢迎提交Issues！谢谢！
