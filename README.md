@@ -1,7 +1,7 @@
 #CLST使用文档
 
 CLST是一个Linux终端主题(脑抽了写出来的)。
-![截图](/images/1.png)
+![截图](https://github.com/chenwumm/clst/blob/main/image/1.png)
 美化之后的主提示符结构:
 ```
 年-月-日 时:分
